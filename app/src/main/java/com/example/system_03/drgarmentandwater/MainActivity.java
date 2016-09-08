@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
     String firstname,lastname,email,pwd,mobile,url;
     ProgressDialog pd;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
